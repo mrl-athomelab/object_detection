@@ -1,1 +1,1 @@
-Modern convolutional object detector using Tensorflow object detection API
+Convolutional object detector using Tensorflow object detection API
