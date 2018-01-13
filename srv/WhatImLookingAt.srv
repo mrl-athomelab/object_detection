@@ -1,0 +1,7 @@
+int64 x
+---
+int64[] boxes
+int64[] scores
+int64[] classes
+string[] names
+int64[] num

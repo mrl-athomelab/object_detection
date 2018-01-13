@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'coca'
+}
+
+item {
+  id: 2
+  name: 'fanta'
+}
+
+item {
+  id: 3
+  name: 'coffee'
+}
+
+item {
+  id: 4
+  name: 'cream'
+}
+
+item {
+  id: 5
+  name: 'door_handle'
+}

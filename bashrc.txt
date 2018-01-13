@@ -1,0 +1,3 @@
+source /opt/ros/indigo/setup.bash
+. /home/mjazadi01/programs/catkin_ws/devel/setup.bash
+export PYTHONPATH=$PYTHONPATH:/home/mjazadi01/programs/catkin_ws/src/object_detection/scripts/tensorflow/models/research:/home/mjazadi01/programs/catkin_ws/src/object_detection/scripts/tensorflow/models/research/slim
